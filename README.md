@@ -17,19 +17,17 @@ Passionate Mobile Developer specializing in Flutter and native Android developme
 - 🔥 Interested in Clean Architecture, Scalable Apps, and Modern Mobile Development  
 
 ---
-
 <h3 align="left">🌐 Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+<a href="https://www.linkedin.com/in/georgemamdouh~/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" />
+<a href="mailto:georgemamdouh040@gmail.com" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" />
 </a>
 </p>
-
 ---
 
 <h3 align="left">💻 Languages and Tools:</h3>
